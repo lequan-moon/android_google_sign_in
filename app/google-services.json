@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430243929353",
+    "project_id": "ad27loginsocial"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430243929353:android:bf650f4d990ea89c",
+        "android_client_info": {
+          "package_name": "com.example.quanlm.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430243929353-71uhbpecie5lbhm3jkl6jrsrpvk4q2gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quanlm.sociallogin",
+            "certificate_hash": "264b46561810b7c4498c19aae9438db8adfdf5ee"
+          }
+        },
+        {
+          "client_id": "430243929353-0s8gvq5vkerakgea930uk9iacaemntii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPVSksuIfvRIz3iTO5P_1BZlWl8_OoZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
